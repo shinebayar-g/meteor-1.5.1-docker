@@ -1,1 +1,1 @@
-# meteor-1.5.1-docker
+# meteor app docker images.

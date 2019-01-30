@@ -1,4 +1,4 @@
-FROM erxes/node:8.11.1
+FROM shinebayar/node:8.11.1
 USER node
 RUN curl "https://install.meteor.com/?release=1.6.1" | sh
 USER root

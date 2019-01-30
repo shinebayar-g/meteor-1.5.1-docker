@@ -1,5 +1,5 @@
 # Update upstream image before build
-docker pull erxes/node:8.11.1
+docker pull shinebayar/node:8.11.1
 # Build & push
-docker build -t erxes/meteor:1.6.1 .
-docker push erxes/meteor:1.6.1
+docker build -t shinebayar/meteor:1.6.1 .
+docker push shinebayar/meteor:1.6.1

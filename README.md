@@ -2,6 +2,8 @@
 
 Meteor 1.2.1 = Nodejs 0.10.40
 
+Meteor 1.3.5.1 = Nodejs 0.10.46
+
 Meteor 1.5.0 = Nodejs   4.8.3
 
 Meteor 1.5.1 = Nodejs   4.8.4
